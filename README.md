@@ -1,4 +1,5 @@
-# DNS Resolver
+# Amusement Park Simulator
+
 Description:
 Custom built dnsResolver that will return the IP of a given domain name. Also, includes the question, querytime, and when the protocol was sent in printout.
 
