@@ -9,5 +9,5 @@ time - used to keep track of query time.
 datetime - used to keep track of when the query is sent out.
 
 Instructions:  
-Run the program and it will prompt you for a input that should be the domain name that you desire to get the IP off.
+Run the program and it will prompt you for a input that should be the domain name that you desire to get the IP off.  
 (Ex: cs.stonybrook.edu)
